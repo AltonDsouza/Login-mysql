@@ -1,2 +1,2 @@
 # Login-mysql
-Login using server side php and mysql.
+Login form using server side php and mysql as database.(Use of Wamp/Lamp server)
